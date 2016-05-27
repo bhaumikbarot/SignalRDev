@@ -1,0 +1,19 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+
+<div class="jumbotron">
+    <h1>SignalR</h1>
+    <p><a href="@Url.Action("Add", "Home")" target="_blank" class="btn btn-primary btn-lg">Add Data</a></p>
+    <p><a href="@Url.Action("List", "Home")" target="_blank" class="btn btn-primary btn-lg">List Data</a></p>
+</div>
+<h4>SignalR Data</h4>
+<div class="row">
+    
+</div>
+@section scripts
+{
+<script src="@Url.Content("~/Scripts/jquery.signalR-2.2.0.min.js")" type="text/javascript"></script>
+<script src="@Url.Content("~/signalr/hubs")" type="text/javascript"></script>
+<script src="@Url.Content("~/Scripts/DevScript.js")" type="text/javascript"></script>
+}

@@ -1,0 +1,12 @@
+E:\Dot Net\www\DevApplication\Dev.Data\bin\Debug\Dev.Data.dll.config
+E:\Dot Net\www\DevApplication\Dev.Data\bin\Debug\Dev.Data.dll
+E:\Dot Net\www\DevApplication\Dev.Data\bin\Debug\Dev.Data.pdb
+E:\Dot Net\www\DevApplication\Dev.Data\bin\Debug\Dev.BO.dll
+E:\Dot Net\www\DevApplication\Dev.Data\bin\Debug\EntityFramework.dll
+E:\Dot Net\www\DevApplication\Dev.Data\bin\Debug\EntityFramework.SqlServer.dll
+E:\Dot Net\www\DevApplication\Dev.Data\bin\Debug\Dev.BO.pdb
+E:\Dot Net\www\DevApplication\Dev.Data\bin\Debug\EntityFramework.xml
+E:\Dot Net\www\DevApplication\Dev.Data\bin\Debug\EntityFramework.SqlServer.xml
+E:\Dot Net\www\DevApplication\Dev.Data\obj\Debug\Dev.Data.csprojResolveAssemblyReference.cache
+E:\Dot Net\www\DevApplication\Dev.Data\obj\Debug\Dev.Data.dll
+E:\Dot Net\www\DevApplication\Dev.Data\obj\Debug\Dev.Data.pdb

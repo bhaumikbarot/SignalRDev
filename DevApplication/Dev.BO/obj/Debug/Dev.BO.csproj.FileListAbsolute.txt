@@ -1,0 +1,9 @@
+E:\Dot Net\www\DevApplication\Dev.BO\bin\Debug\Dev.BO.dll.config
+E:\Dot Net\www\DevApplication\Dev.BO\bin\Debug\Dev.BO.dll
+E:\Dot Net\www\DevApplication\Dev.BO\bin\Debug\Dev.BO.pdb
+E:\Dot Net\www\DevApplication\Dev.BO\bin\Debug\EntityFramework.dll
+E:\Dot Net\www\DevApplication\Dev.BO\bin\Debug\EntityFramework.SqlServer.dll
+E:\Dot Net\www\DevApplication\Dev.BO\bin\Debug\EntityFramework.xml
+E:\Dot Net\www\DevApplication\Dev.BO\bin\Debug\EntityFramework.SqlServer.xml
+E:\Dot Net\www\DevApplication\Dev.BO\obj\Debug\Dev.BO.dll
+E:\Dot Net\www\DevApplication\Dev.BO\obj\Debug\Dev.BO.pdb

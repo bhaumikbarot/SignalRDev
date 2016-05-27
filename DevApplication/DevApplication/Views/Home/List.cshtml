@@ -1,0 +1,48 @@
+﻿
+@{
+    ViewBag.Title = "List";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+@model List<Dev.BO.Models.DevTest>
+           <style type="text/css">
+               #divList table tr th{border-right:1px solid #ccc; border-bottom:1px solid #ccc;}
+               #divList table tr td{border-right:1px solid #ccc; border-bottom:1px solid #ccc;}
+           </style>
+<h2>Test Data</h2>
+<div id="divList" style="width:99%; border:1px solid #ccc;">
+    <table style="width:99%;">
+        <tr>
+            <th>Campaign Name</th>
+            <th>Date</th>
+            <th>Clicks</th>
+            <th>Conversions</th>
+            <th>Impressions</th>
+            <th>Affiliate Name</th>
+            <th>Edit</th>
+            <th>Delete</th>
+        </tr>
+        @if (Model != null && Model.Count > 0)
+        {
+            for (int i = 0; i < Model.Count; i++)
+            {
+                <tr>
+                    <td>@Model[i].CampaignName</td>
+                    <td>@Model[i].Date</td>
+                    <td>@Model[i].Clicks</td>
+                    <td>@Model[i].Conversions</td>
+                    <td>@Model[i].Impressions</td>
+                    <td>@Model[i].AffiliateName</td>
+                    <td><a href ="@Url.Action("Add", "Home", new { Id = Model[i].Id})" style="text-decoration:underline;">Edit</a></td>
+                    <td><a href="@Url.Action("Delete", "Home", new { Id = Model[i].Id })" style="text-decoration:underline;">Delete</a></td>
+                </tr>
+            }
+        }
+        else
+        {
+            <tr>
+                <td colspan="5">No Record Found</td>
+            </tr>
+        }
+    </table>
+</div>
+

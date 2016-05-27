@@ -1,0 +1,14 @@
+E:\Dot Net\www\DevApplication\Dev.Services\bin\Debug\Dev.Services.dll.config
+E:\Dot Net\www\DevApplication\Dev.Services\bin\Debug\Dev.Services.dll
+E:\Dot Net\www\DevApplication\Dev.Services\bin\Debug\Dev.Services.pdb
+E:\Dot Net\www\DevApplication\Dev.Services\bin\Debug\Dev.BO.dll
+E:\Dot Net\www\DevApplication\Dev.Services\bin\Debug\Dev.Data.dll
+E:\Dot Net\www\DevApplication\Dev.Services\bin\Debug\EntityFramework.dll
+E:\Dot Net\www\DevApplication\Dev.Services\bin\Debug\EntityFramework.SqlServer.dll
+E:\Dot Net\www\DevApplication\Dev.Services\bin\Debug\Dev.BO.pdb
+E:\Dot Net\www\DevApplication\Dev.Services\bin\Debug\Dev.Data.pdb
+E:\Dot Net\www\DevApplication\Dev.Services\bin\Debug\EntityFramework.xml
+E:\Dot Net\www\DevApplication\Dev.Services\bin\Debug\EntityFramework.SqlServer.xml
+E:\Dot Net\www\DevApplication\Dev.Services\obj\Debug\Dev.Services.csprojResolveAssemblyReference.cache
+E:\Dot Net\www\DevApplication\Dev.Services\obj\Debug\Dev.Services.dll
+E:\Dot Net\www\DevApplication\Dev.Services\obj\Debug\Dev.Services.pdb
